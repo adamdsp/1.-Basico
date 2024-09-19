@@ -1,0 +1,27 @@
+
+.envoltorio{
+    padding: 1px;
+    flex-direction: row;
+    display: flex;
+    background-color: #000000;
+
+}
+
+  .cuadrado1{
+        width: 150px;
+        height: 175px;
+        margin: 1px;
+        padding: 25px;
+        background-color: #FF2D01;
+        border-radius: 15px;
+  }
+  
+  .cuadrado2{
+    width: 150px;
+    height: 175px;
+    margin: 1;
+    padding: 25px;
+    background-color: #FFF91F;
+    border-radius: 15px;
+  }
+  
