@@ -1,6 +1,4 @@
-.body{
- align-content: center
-}
+
 .envoltorio{
     flex-direction: row;
     display: flex;
