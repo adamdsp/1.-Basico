@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/(.*)",
-        "destination": "/pagina.html"
+        "destination": "/html.html"
       }
     ]
   }
